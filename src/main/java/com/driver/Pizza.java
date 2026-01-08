@@ -32,7 +32,7 @@ public class Pizza {
         if(!extraCheeseAdded){
             extraCheeseAdded=true;
             price+=80;
-            bill+="Extra Cheese Price: 80\n";
+            bill+="Extra Cheese Added: 80\n";
         }
     }
 
